@@ -1,0 +1,16 @@
+Log Analysis Report
+=====================
+
+Total log entries: 4
+WARNING: 2
+ERROR: 1
+INFO: 1
+
+Time Range
+Start: 2025-05-07 10:16:01
+End:   2025-05-07 10:18:45
+
+Top Error/Warning Messages:
+[1x] Disk space low on /dev/sda1
+[1x] Failed to connect to database
+[1x] High memory usage detected
