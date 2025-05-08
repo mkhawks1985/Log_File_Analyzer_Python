@@ -1,7 +1,7 @@
 #Log File Analyzer (Python3)
 
 A simple, command-line tool to analyze log files for errors, warnings,
-and informational messages.It provides summary statistics, a visual chart,
+and informational messages. It provides summary statistics, a visual chart,
 and generates a plain-text report.
 
 ---
