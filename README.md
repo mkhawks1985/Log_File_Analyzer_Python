@@ -31,7 +31,7 @@ and generates a plain-text report.
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/log-file-analyzer.git
+   git clone https://github.com/mkhawks1985/log-file-analyzer.git
    cd log-file-analyzer
 2. Install required packages:
     $ pip install matplotlib
